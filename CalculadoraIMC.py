@@ -1,5 +1,5 @@
 while True:
-    Peso = input("Ingresa tu peso: ")
+    Peso = input("Ingresa tu peso en kilogramos: ")
     Altura = input("ingresa tu altura en metros: ")
     try:
         float(Altura)
